@@ -34,3 +34,7 @@ If the user who logged in was a student, their home page would look similar to t
 
 ![Image](/screenshots/student-home-page_1.PNG)
 ![Image](/screenshots/student-home-page_2.PNG)
+
+A student will be able to see their, avatar name, their real name, and their current gold along with other relevant information
+
+Below the header of the content is a list of currently available quests that are eligible to request for completion and a list of quests that have been completed.
