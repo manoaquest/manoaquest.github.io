@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# ManoaQuest
+## No More Boring Classes
+No matter if you’re a professor or a student coursework can feel like a drag. Students struggle with motivation while professors try to keep the material engaging. ManoaQuest is one possible solution.
 
-You can use the [editor on GitHub](https://github.com/manoaquest/manoaquest.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ManoaQuest gamifies courses at UH Manoa. When a professor integrates ManoaQuest into a course it doesn’t require any changes in scheduling. Rather ManoaQuest turns homework assignments into quest with rewards upon completion. Students can track their progress and compete with other students on the leaderboard.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These small features motivates students through rewards and competition. It keeps students engaged at the cost of a small time investment from the professor. The end goal of ManoaQuest is to boost the overall grades of students in a positive and engaging way.
 
-### Markdown
+## ManoaQuest Features
+- A robust questing system:
+  - The professor can create quest whether it’s studying with a partner or turning in assignments.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Personal avatar:
+  - Your avatar represents you in ManoaQuest. Earn rewards and gold to purchase customizations.
+- Leaderboard:
+  - Students can feel competitive. Getting a high score on a quiz can push your avatar up the rankings.
+- Notifications:
+  - ManoaQuest will send an email with reminders about quest before they expire.
 
-```markdown
-Syntax highlighted code block
+## Site Walkthrough
+When first accessing the site the user is presented with this landing page. It contains a simple login form and basic information.
 
-# Header 1
-## Header 2
-### Header 3
+![alt text](https://manoaquest.github.io/screenshots/landing-page.PNG "Landing Page")
 
-- Bulleted
-- List
+After signing in, the user is presented with one of several differnet home pages depending on their role in the class.
 
-1. Numbered
-2. List
+If the user who logged in was a student, their home page would look similar to this:
 
-**Bold** and _Italic_ and `Code` text
+![alt text](https://manoaquest.github.io/screenshots/student-home-page_1.PNG "Sign-In Page") 
 
-[Link](url) and ![Image](src)
-```
+![alt text](https://manoaquest.github.io/screenshots/student-home-page_2.PNG "Sign-In Page 2")
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A student will be able to see their, avatar name, their real name, and their current gold along with other relevant information
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/manoaquest/manoaquest.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Below the header of the content is a list of currently available quests that are eligible to request for completion and a list of quests that have been completed.
