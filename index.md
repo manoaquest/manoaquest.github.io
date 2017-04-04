@@ -26,4 +26,4 @@ These small features motivates students through rewards and competition. It keep
 
 When first accessing the site the user is presented with this landing page. It contains a simple login form and basic information.
 
-![Image](/screenshots/landing-page)
+![Image](/screenshots/landing-page.png)
