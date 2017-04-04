@@ -27,3 +27,10 @@ These small features motivates students through rewards and competition. It keep
 When first accessing the site the user is presented with this landing page. It contains a simple login form and basic information.
 
 ![Image](/screenshots/landing-page.PNG)
+
+After signing in, the user is presented with one of several differnet home pages depending on their role in the class.
+
+If the user who logged in was a student, their home page would look similar to this:
+
+![Image](/screenshots/student-home-page_1.PNG)
+![Image](/screenshots/student-home-page_2.PNG)
