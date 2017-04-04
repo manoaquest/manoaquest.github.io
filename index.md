@@ -38,3 +38,11 @@ If the user who logged in was a student, their home page would look similar to t
 A student will be able to see their, avatar name, their real name, and their current gold along with other relevant information
 
 Below the header of the content is a list of currently available quests that are eligible to request for completion and a list of quests that have been completed.
+
+![Image](/screenshots/professor-screenshot.png)
+
+Professors will be able to approved submitted quest to rewards. More importantly professors will be able to create quest.
+
+![Image](/screenshots/ta-screenshot.png)
+
+Teacher assistants will be able to also approve submitted quest. This is to help the professor keep up with approvals.
