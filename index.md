@@ -23,7 +23,7 @@ These small features motivates students through rewards and competition. It keep
   * ManoaQuest will send an email with reminders about quest before they expire.
 
 ## Current Progress
-Milestone 1 - Mockup and Deployment: https://github.com/manoaquest/ManoaQuest/projects/1
+Milestone 1 - Mockup and Deployment: [Link]https://github.com/manoaquest/ManoaQuest/projects/1
 
 ## Site Walkthrough
 
