@@ -25,6 +25,7 @@ These small features motivates students through rewards and competition. It keep
 ## Development History
 ## Milestone 1 - Mockup and Deployment: 
 Our first project milestone set goals to create HTML mockup pages for our webapp in Meteor. Additionally since we created the webapp in Meteor, we also set out to link all the pages together using FlowRouter. The last goal is to deploy our app to Galaxy so that we can have a live version to test with.
+
 [GitHub Project - Milestone 1](https://github.com/manoaquest/ManoaQuest/projects/1)
 
 ## Site Walkthrough
