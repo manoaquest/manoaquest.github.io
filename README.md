@@ -1,5 +1,7 @@
 # ManoaQuest
+
 ## No More Boring Classes
+
 No matter if you’re a professor or a student coursework can feel like a drag. Students struggle with motivation while professors try to keep the material engaging. ManoaQuest is one possible solution.
 
 ManoaQuest gamifies courses at UH Manoa. When a professor integrates ManoaQuest into a course it doesn’t require any changes in scheduling. Rather ManoaQuest turns homework assignments into quest with rewards upon completion. Students can track their progress and compete with other students on the leaderboard.
