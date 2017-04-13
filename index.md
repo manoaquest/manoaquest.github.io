@@ -28,6 +28,10 @@ Our first project milestone set goals to create HTML mockup pages for our webapp
 
 [GitHub Project - Milestone 1](https://github.com/manoaquest/ManoaQuest/projects/1)
 
+Our goals in this milestone was managed by GitHub's project manager feature with each goal implemented as a card that we could move between a backlog, in progress, and finished. 
+
+![Image](/screenshots/m1screencap.png)
+
 ## [Site Walkthrough](http://manoaquest.meteorapp.com/)
 
 When first accessing the site the user is presented with this landing page. It contains a simple login form and basic information.
