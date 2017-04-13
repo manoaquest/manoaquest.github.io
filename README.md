@@ -30,7 +30,7 @@ If the user who logged in was a student, their home page would look similar to t
 
 ![alt text](https://manoaquest.github.io/screenshots/student-home-page.png "Student Home Page") 
 
-![alt text](https://manoaquest.github.io/screenshots/create-quest "Create Quest")
+![alt text](https://manoaquest.github.io/screenshots/create-quest.png "Create Quest")
 
 A student will be able to see their, avatar name, their real name, and their current gold along with other relevant information
 
