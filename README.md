@@ -36,7 +36,7 @@ Below the header of the content is a list of currently available quests that are
 
 ![alt text](https://manoaquest.github.io/screenshots/approve-quest.png "Approve Quest")
 
-Professors will be able to create quests
+Professors will be able to create quests.
 
 ![alt text](https://manoaquest.github.io/screenshots/create-quest.png "Create Quest")
 
