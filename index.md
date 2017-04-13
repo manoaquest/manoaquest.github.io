@@ -30,11 +30,11 @@ Our first project milestone set goals to create HTML mockup pages for our webapp
 
 Our goals in this milestone was managed by GitHub's project manager feature with each goal implemented as a card that we could move between a backlog, in progress, and finished. 
 
-![Image](/screenshots/m1screencap.png)
+![Image](/screenshots/m1screencap.PNG)
 
 Each group member worked in their own branch and then merged into the master branch when we all completed our work.
 
-![Image](/screenshots/m1network.png)
+![Image](/screenshots/m1network.PNG)
 
 ## [Site Walkthrough](http://manoaquest.meteorapp.com/)
 
