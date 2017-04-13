@@ -22,24 +22,24 @@ These small features motivates students through rewards and competition. It keep
 ## Site Walkthrough
 When first accessing the site the user is presented with this landing page. It contains a simple login form and basic information.
 
-![alt text](https://manoaquest.github.io/screenshots/landing-page.PNG "Landing Page")
+![alt text](https://manoaquest.github.io/screenshots/landing-page.png "Landing Page")
 
 After signing in, the user is presented with one of several differnet home pages depending on their role in the class.
 
 If the user who logged in was a student, their home page would look similar to this:
 
-![alt text](https://manoaquest.github.io/screenshots/student-home-page_1.PNG "Sign-In Page") 
+![alt text](https://manoaquest.github.io/screenshots/student-home-page.png "Student Home Page") 
 
-![alt text](https://manoaquest.github.io/screenshots/student-home-page_2.PNG "Sign-In Page 2")
+![alt text](https://manoaquest.github.io/screenshots/create-quest "Create Quest")
 
 A student will be able to see their, avatar name, their real name, and their current gold along with other relevant information
 
 Below the header of the content is a list of currently available quests that are eligible to request for completion and a list of quests that have been completed.
 
-![alt text](https://manoaquest.github.io/screenshots/professor-screenshot.png "Submitted Quest Approval Page 1")
+![alt text](https://manoaquest.github.io/screenshots/approve-quest.png "Approve Quest")
 
 Professors will be able to approved submitted quest to rewards. More importantly professors will be able to create quest.
 
-![alt text](https://manoaquest.github.io/screenshots/ta-screenshot.png "Submitted Quest Approval Page 2")
+![alt text](https://manoaquest.github.io/screenshots/teacher-page.png "Teacher Page")
 
 Teacher assistants will be able to also approve submitted quest. This is to help the professor keep up with approvals.
