@@ -30,15 +30,17 @@ If the user who logged in was a student, their home page would look similar to t
 
 ![alt text](https://manoaquest.github.io/screenshots/student-home-page.png "Student Home Page") 
 
-![alt text](https://manoaquest.github.io/screenshots/create-quest.png "Create Quest")
-
 A student will be able to see their, avatar name, their real name, and their current gold along with other relevant information
 
 Below the header of the content is a list of currently available quests that are eligible to request for completion and a list of quests that have been completed.
 
 ![alt text](https://manoaquest.github.io/screenshots/approve-quest.png "Approve Quest")
 
-Professors will be able to approved submitted quest to rewards. More importantly professors will be able to create quest.
+Professors will be able to create quests
+
+![alt text](https://manoaquest.github.io/screenshots/create-quest.png "Create Quest")
+
+Professors are able to approve submitted quest to rewards. More importantly professors will be able to create quest.
 
 ![alt text](https://manoaquest.github.io/screenshots/teacher-page.png "Teacher Page")
 
