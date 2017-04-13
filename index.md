@@ -32,23 +32,26 @@ Our first project milestone set goals to create HTML mockup pages for our webapp
 
 When first accessing the site the user is presented with this landing page. It contains a simple login form and basic information.
 
-![Image](/screenshots/landing-page.PNG)
+![Image](/screenshots/landing-page.png)
 
 After signing in, the user is presented with one of several differnet home pages depending on their role in the class.
 
 If the user who logged in was a student, their home page would look similar to this:
 
-![Image](/screenshots/student-home-page_1.PNG)
-![Image](/screenshots/student-home-page_2.PNG)
+![Image](/screenshots/student-home-page.png)
 
 A student will be able to see their, avatar name, their real name, and their current gold along with other relevant information
 
 Below the header of the content is a list of currently available quests that are eligible to request for completion and a list of quests that have been completed.
 
-![Image](/screenshots/professor-screenshot.png)
+![Image](/screenshots/approve-quest.png)
+
+Professors will be able to create quests.
+
+![Image](/screenshots/create-quest.png)
 
 Professors will be able to approved submitted quest to rewards. More importantly professors will be able to create quest.
 
-![Image](/screenshots/ta-screenshot.png)
+![Image](/screenshots/teacher-page.png)
 
 Teacher assistants will be able to also approve submitted quest. This is to help the professor keep up with approvals.
