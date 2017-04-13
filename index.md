@@ -32,6 +32,10 @@ Our goals in this milestone was managed by GitHub's project manager feature with
 
 ![Image](/screenshots/m1screencap.png)
 
+Each group member worked in their own branch and then merged into the master branch when we all completed our work.
+
+![Image](/screenshots/m1network.png)
+
 ## [Site Walkthrough](http://manoaquest.meteorapp.com/)
 
 When first accessing the site the user is presented with this landing page. It contains a simple login form and basic information.
