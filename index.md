@@ -22,20 +22,6 @@ These small features motivates students through rewards and competition. It keep
 * Notifications:
   * ManoaQuest will send an email with reminders about quest before they expire.
 
-## Development History
-## Milestone 1 - Mockup and Deployment: 
-Our first project milestone set goals to create HTML mockup pages for our webapp in Meteor. Additionally since we created the webapp in Meteor, we also set out to link all the pages together using FlowRouter. The last goal is to deploy our app to Galaxy so that we can have a live version to test with.
-
-[GitHub Project - Milestone 1](https://github.com/manoaquest/ManoaQuest/projects/1)
-
-Our goals in this milestone was managed by GitHub's project manager feature with each goal implemented as a card that we could move between a backlog, in progress, and finished. 
-
-![Image](/screenshots/m1screencap.PNG)
-
-Each group member worked in their own branch and then merged into the master branch when we all completed our work.
-
-![Image](/screenshots/m1network.PNG)
-
 ## [Site Walkthrough](http://manoaquest.meteorapp.com/)
 
 When first accessing the site the user is presented with this landing page. It contains a simple login form and basic information.
@@ -63,3 +49,17 @@ Professors will be able to approved submitted quest to rewards. More importantly
 ![Image](/screenshots/teacher-page.png)
 
 Teacher assistants will be able to also approve submitted quest. This is to help the professor keep up with approvals.
+
+## Development History
+## Milestone 1 - Mockup and Deployment: 
+Our first project milestone set goals to create HTML mockup pages for our webapp in Meteor. Additionally since we created the webapp in Meteor, we also set out to link all the pages together using FlowRouter. The last goal is to deploy our app to Galaxy so that we can have a live version to test with.
+
+[GitHub Project - Milestone 1](https://github.com/manoaquest/ManoaQuest/projects/1)
+
+Our goals in this milestone was managed by GitHub's project manager feature with each goal implemented as a card that we could move between a backlog, in progress, and finished. 
+
+![Image](/screenshots/m1screencap.PNG)
+
+Each group member worked in their own branch and then merged into the master branch when we all completed our work.
+
+![Image](/screenshots/m1network.PNG)
