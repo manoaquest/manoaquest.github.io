@@ -44,7 +44,15 @@ Professors will be able to create quests.
 
 ![alt text](https://github.com/manoaquest/manoaquest.github.io/blob/master/screenshots/create-quest.png?raw=true "Create Quest")
 
-Professors are able to approve submitted quest to rewards. More importantly professors will be able to create quest.
+Professors are able to approve submitted quest to rewards. 
+
+![alt text](https://manoaquest.github.io/screenshots/quest-created.png "Approve Quest")
+
+Professors will be able to edit and update quests
+
+![alt text](https://manoaquest.github.io/screenshots/edit-quest.png "Approve Quest")
+
+![alt text](https://manoaquest.github.io/screenshots/quest-updated.png "Approve Quest")
 
 ![alt text](https://manoaquest.github.io/screenshots/teacher-page.png "Teacher Page")
 

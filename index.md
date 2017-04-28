@@ -28,6 +28,8 @@ When first accessing the site the user is presented with this landing page. It c
 
 ![Image](/screenshots/landing-page.png)
 
+![Image](/screenshots/cas.png)
+
 After signing in, the user is presented with one of several differnet home pages depending on their role in the class.
 
 If the user who logged in was a student, their home page would look similar to this:
@@ -43,6 +45,16 @@ Below the header of the content is a list of currently available quests that are
 Professors will be able to create quests.
 
 ![Image](/screenshots/create-quest.png)
+
+![Image](/screenshots/quest-created.png)
+
+Professors will be able to edit the quests.
+
+![Image](/screenshots/edit-quest.png)
+
+Professors will also be able to update the quests.
+
+![Image](/screenshots/quest-updated.png)
 
 Professors will be able to approved submitted quest to rewards. More importantly professors will be able to create quest.
 
