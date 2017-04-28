@@ -24,6 +24,8 @@ When first accessing the site the user is presented with this landing page. It c
 
 ![alt text](https://manoaquest.github.io/screenshots/landing-page.png "Landing Page")
 
+After the student clicks the login, there is a CAS system. 
+
 ![alt text](https://github.com/manoaquest/manoaquest.github.io/blob/master/screenshots/cas.png?raw=true "CAS System")
 
 After signing in, the user is presented with one of several differnet home pages depending on their role in the class.
