@@ -24,7 +24,7 @@ When first accessing the site the user is presented with this landing page. It c
 
 ![alt text](https://manoaquest.github.io/screenshots/landing-page.png "Landing Page")
 
-![alt text](https://manoaquest.github.io/screenshots/cas.png "CAS System")
+![alt text](https://github.com/manoaquest/manoaquest.github.io/blob/master/screenshots/cas.png?raw=true "CAS System")
 
 After signing in, the user is presented with one of several differnet home pages depending on their role in the class.
 
@@ -40,7 +40,7 @@ Below the header of the content is a list of currently available quests that are
 
 Professors will be able to create quests.
 
-![alt text](https://manoaquest.github.io/screenshots/create-quest.png "Create Quest")
+![alt text](https://github.com/manoaquest/manoaquest.github.io/blob/master/screenshots/create-quest.png?raw=true "Create Quest")
 
 Professors are able to approve submitted quest to rewards. More importantly professors will be able to create quest.
 
