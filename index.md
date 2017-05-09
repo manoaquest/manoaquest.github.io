@@ -89,3 +89,13 @@ Our goals in this milestone was managed by GitHub's project manager feature with
 Each group member worked in their own branch and then merged into the master branch when we all completed our work.
 
 ![Image](/screenshots/m2network.png)
+
+[GitHub Project - Milestone 3](https://github.com/manoaquest/Manoa-Quest/projects/1)
+
+Our goals in this milestone was managed by GitHub's project manager feature with each goal implemented as a card that we could move between a backlog, in progress, and finished. 
+
+![Image](/screenshots/m3screencap.png)
+
+Each group member worked in their own branch and then merged into the master branch when we all completed our work.
+
+![Image](/screenshots/m3network.png)
