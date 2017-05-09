@@ -34,9 +34,10 @@ After signing in, the user is presented with one of several differnet home pages
 
 If the user who logged in was a student, their home page would look similar to this:
 
-![Image](/screenshots/student-home-page.png)
+![Image](/screenshots/student-home-page-1.png)
+![Image](/screenshots/student-home-page-2.png)
 
-A student will be able to see their, avatar name, their real name, and their current gold along with other relevant information
+A student will be able to see their, avatar name, their real name, and their current gold along with other relevant information. They would also be able to change their avatar based on url! Super cool!
 
 Below the header of the content is a list of currently available quests that are eligible to request for completion and a list of quests that have been completed.
 
