@@ -76,7 +76,6 @@ Each group member worked in their own branch and then merged into the master bra
 
 ![Image](/screenshots/m1network.PNG)
 
-## Development History
 ## Milestone 2 - Mockup and Deployment: 
 For this milestone, we decided to jump ahead and connect the database to every page that needed a database. We also were able to route the pages through the students id's. 
 
@@ -89,6 +88,16 @@ Our goals in this milestone was managed by GitHub's project manager feature with
 Each group member worked in their own branch and then merged into the master branch when we all completed our work.
 
 ![Image](/screenshots/m2network.png)
+
+## Milestone 3 - Let's Finish this!: 
+For this milestone, we realized that we got a lot done during the last milestone, so we would ensure we reached our MVP before the deadline which included a LOT more!
+
+- Ensure all pages are connected
+- Ensure database setup is perfect
+- Correct routing based on user login
+- 404, Unauthorized page creation
+- Uniform styling!
+- Custom sprites!
 
 [GitHub Project - Milestone 3](https://github.com/manoaquest/Manoa-Quest/projects/1)
 
