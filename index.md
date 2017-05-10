@@ -89,6 +89,23 @@ meteor npm run start
 ```
 * Open the site on localhost:3000 from any browser. If you have an UHM account, you can login. 
 
+## Initial User Study
+We surveyed past members of the UHM community by directing them to our sites and allowing them to do whatever their hearts desired.
+- Lisa Zhou
+- Sheena Galutira
+- Nikki Kobayashi
+- Javen Nakamoto
+- Adam Akamine
+
+Feedback:
+- Interesting, wish there was a guide!
+- I wish I had this when I was in school!
+- Wow, such wow.
+- I don't even like RPG's, but this was interesting!
+- Can I make my own characters?
+- Seems a little buggy...
+- Very interesting spin on this, school would've been much more competitive if we had this
+
 ## Development History
 ## Milestone 1 - Mockup and Deployment: 
 Our first project milestone set goals to create HTML mockup pages for our webapp in Meteor. Additionally since we created the webapp in Meteor, we also set out to link all the pages together using FlowRouter. The last goal is to deploy our app to Galaxy so that we can have a live version to test with.
