@@ -30,7 +30,11 @@ When first accessing the site the user is presented with this landing page. It c
 
 ![Image](/screenshots/cas.png)
 
-After signing in, the user is presented with one of several differnet home pages depending on their role in the class.
+After signing in, the user is presented with one of several different home pages depending on their role in the class.
+
+![Image](/screenshots/unauthorized.png)
+
+If one is not a UHM user, they would not be allowed to any of the sites.
 
 If the user who logged in was a student, their home page would look similar to this:
 
@@ -62,6 +66,10 @@ Professors will be able to approved submitted quest to rewards. More importantly
 ![Image](/screenshots/teacher-page.png)
 
 Teacher assistants will be able to also approve submitted quest. This is to help the professor keep up with approvals.
+
+![Image](/screenshots/error-404.png)
+
+Users will also be redirected if they are on an incorrect site
 
 ## Developers Guide
 
