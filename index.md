@@ -78,7 +78,7 @@ Users will also be redirected if they are on an incorrect site
 
 ## Developers Guide
 
-* To run this application, you must first have [Meteor](https://www.meteor.com/) must be installed on your machine. 
+* To run this application, you must first have [Meteor](https://www.meteor.com/) installed on your machine. 
 * Fork this project on https://github.com/manoaquest/Manoa-Quest
 * Clone the project to your machine with:
 ```

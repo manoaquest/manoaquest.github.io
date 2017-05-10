@@ -44,15 +44,15 @@ Below the header of the content is a list of currently available quests that are
 ![Image](/screenshots/request-exp.png)
 
 ### Professor Side
-Professors will be able to approved submitted quest to rewards (if students ask for silly amounts of experience). More importantly professors will be able to create quest.
+Professors will be able to approved submitted quest to rewards (if students ask for silly amounts of experience). 
 
 ![Image](/screenshots/teacher-page.png)
 
-Professors will be able to create quests.
+More importantly professors will be able to create quest.
 ![Image](/screenshots/create-quest.png)
 ![Image](/screenshots/create-quest-1.png)
 
-Professors will be able to edit the quests if they made any typos.
+Professors will also be able to make edits to the newly created quests.
 
 ![Image](/screenshots/edit-quest.png)
 
@@ -78,7 +78,7 @@ Users will also be redirected if they are on an incorrect site
 
 ## Developers Guide
 
-* To run this application, you must first have [Meteor](https://www.meteor.com/) must be installed on your machine. 
+* To run this application, you must first have [Meteor](https://www.meteor.com/) installed on your machine. 
 * Fork this project on https://github.com/manoaquest/Manoa-Quest
 * Clone the project to your machine with:
 ```
