@@ -63,6 +63,24 @@ Professors will be able to approved submitted quest to rewards. More importantly
 
 Teacher assistants will be able to also approve submitted quest. This is to help the professor keep up with approvals.
 
+## Developers Guide
+
+* To run this application, you must first have [Meteor](https://www.meteor.com/) must be installed on your machine. 
+* Fork this project on https://github.com/manoaquest/Manoa-Quest
+* Clone the project to your machine with:
+```
+git clone https://github.com/manoaquest/Manoa-Quest.git
+```
+* cd into the app/ directory and install libraries with:
+```
+meteor npm install
+```
+* Run the application with:
+```
+meteor npm run start
+```
+* Open the site on localhost:3000 from any browser. If you have an UHM account, you can login. 
+
 ## Development History
 ## Milestone 1 - Mockup and Deployment: 
 Our first project milestone set goals to create HTML mockup pages for our webapp in Meteor. Additionally since we created the webapp in Meteor, we also set out to link all the pages together using FlowRouter. The last goal is to deploy our app to Galaxy so that we can have a live version to test with.
