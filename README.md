@@ -44,7 +44,7 @@ Below the header of the content is a list of currently available quests that are
 ![Image](/screenshots/request-exp.png)
 
 ### Professor Side
-Professors will be able to approved submitted quest to rewards. More importantly professors will be able to create quest.
+Professors will be able to approved submitted quest to rewards (if students ask for silly amounts of experience). More importantly professors will be able to create quest.
 
 ![Image](/screenshots/teacher-page.png)
 
@@ -63,6 +63,8 @@ Teacher assistants will be able to also approve submitted quest. This is to help
 But where's the fun if you're not winning in EVERYTHING! Which is why we have a Leaderboard!
 
 ![Image](/screenshots/leaderboard.png)
+
+Students are able to compare their experience points with one another! Those who are at top will become EVERYBODYS friend :D
 
 ### User Errors
 
@@ -93,7 +95,7 @@ meteor npm run start
 * Open the site on localhost:3000 from any browser. If you have an UHM account, you can login. 
 
 ## Initial User Study
-We surveyed past members of the UHM community by directing them to our sites and allowing them to do whatever their hearts desired.
+We surveyed past members of the UHM community by directing them to our sites and allowed them to do whatever their hearts desired.
 - Lisa Zhou
 - Sheena Galutira
 - Nikki Kobayashi
