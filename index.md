@@ -19,53 +19,56 @@ These small features motivates students through rewards and competition. It keep
 * Leaderboard:
   * Students can feel competitive. Getting a high score on a quiz can push your avatar up the rankings.
 
-* Notifications:
-  * ManoaQuest will send an email with reminders about quest before they expire.
-
 ## [Site Walkthrough](http://manoaquest.meteorapp.com/)
 
 When first accessing the site the user is presented with this landing page. It contains a simple login form and basic information.
 
 ![Image](/screenshots/landing-page.png)
 
-![Image](/screenshots/cas.png)
-
 After signing in, the user is presented with one of several different home pages depending on their role in the class.
 
-![Image](/screenshots/unauthorized.png)
+![Image](/screenshots/cas.png)
 
-If one is not a UHM user, they would not be allowed to any of the sites.
-
+### Student Side
 If the user who logged in was a student, their home page would look similar to this:
 
-![Image](/screenshots/student-home-page-1.png)
-![Image](/screenshots/student-home-page-2.png)
+![Image](/screenshots/student-home-page.png)
 
 A student will be able to see their, avatar name, their real name, and their current gold along with other relevant information. They would also be able to change their avatar based on url! Super cool!
 
+The student will also be able to request experience points based on what they feel they deserve on the completion of their assignments. 
+
+
 Below the header of the content is a list of currently available quests that are eligible to request for completion and a list of quests that have been completed.
 
-![Image](/screenshots/approve-quest.png)
+![Image](/screenshots/request-exp.png)
 
-Professors will be able to create quests.
-
-![Image](/screenshots/create-quest.png)
-
-![Image](/screenshots/quest-created.png)
-
-Professors will be able to edit the quests.
-
-![Image](/screenshots/edit-quest.png)
-
-Professors will also be able to update the quests.
-
-![Image](/screenshots/quest-updated.png)
-
+### Professor Side
 Professors will be able to approved submitted quest to rewards. More importantly professors will be able to create quest.
 
 ![Image](/screenshots/teacher-page.png)
 
+Professors will be able to create quests.
+![Image](/screenshots/create-quest.png)
+![Image](/screenshots/create-quest-1.png)
+
+Professors will be able to edit the quests if they made any typos.
+
+![Image](/screenshots/edit-quest.png)
+
 Teacher assistants will be able to also approve submitted quest. This is to help the professor keep up with approvals.
+
+### Gamification - Leaderboard
+
+But where's the fun if you're not winning in EVERYTHING! Which is why we have a Leaderboard!
+
+![Image](/screenshots/leaderboard.png)
+
+### User Errors
+
+![Image](/screenshots/unauthorized.png)
+
+If one is not a UHM user, they would not be allowed to any of the sites.
 
 ![Image](/screenshots/error-404.png)
 
@@ -90,7 +93,7 @@ meteor npm run start
 * Open the site on localhost:3000 from any browser. If you have an UHM account, you can login. 
 
 ## Initial User Study
-We surveyed past members of the UHM community by directing them to our sites and allowing them to do whatever their hearts desired.
+We surveyed past members of the UHM community by directing them to our sites and allowed them to do whatever their hearts desired.
 - Lisa Zhou
 - Sheena Galutira
 - Nikki Kobayashi
